@@ -8,6 +8,8 @@ python3 loip.py -ip 'Query'
 <a>How to install</a>
 <pre align="left">
 git clone https://github.com/LorezZ1000/Loip
+cd Loip/
+unzip loip.zip
 </pre>
 <a>If you get any issue please comment</a>
 <br>
